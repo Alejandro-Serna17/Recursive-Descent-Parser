@@ -1,0 +1,8 @@
+a=1+2
+value=-10
+name=john
+formula=x*(y+z)/2
+variable=1 2
+x=(5+6
+value=-
+number=42+
